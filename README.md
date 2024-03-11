@@ -1,1 +1,1 @@
-# PLUS_softwaredev_2024_douglas_fir
+# Software Development Practice (Python) SS'24
